@@ -1,13 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="folder-script.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="48.5"
+     inkscape:cx="8.0103093"
+     inkscape:cy="8"
+     inkscape:window-width="973"
+     inkscape:window-height="981"
+     inkscape:window-x="1967"
+     inkscape:window-y="540"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d300dc;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#8700ff;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="11.715723"
+       y1="4.6543493"
+       x2="4.2842784"
+       y2="11.345653"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-    <path 
-        style="fill:currentColor;fill-opacity:1;stroke:none" 
-        d="M 3.7148438 3 L 3 3.6953125 L 5.6386719 6.4921875 L 3.0175781 9.3046875 L 3.7324219 10 L 6.6757812 6.8378906 L 7 6.4921875 L 6.6757812 6.1445312 L 3.7148438 3 z M 7 12 L 7 13 L 13 13 L 13 12 L 7 12 z "
-          class="ColorScheme-Text"/>
+  <path
+     style="fill:url(#linearGradient2);fill-opacity:1;stroke:none"
+     d="M 3.7148438 3 L 3 3.6953125 L 5.6386719 6.4921875 L 3.0175781 9.3046875 L 3.7324219 10 L 6.6757812 6.8378906 L 7 6.4921875 L 6.6757812 6.1445312 L 3.7148438 3 z M 7 12 L 7 13 L 13 13 L 13 12 L 7 12 z "
+     class="ColorScheme-Text"
+     id="path1" />
 </svg>
